@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	//Declaración de constantes
+	//Declaración de constantes para poder usarlas
 	const pi float64 = 3.14
 	const pi2 = 3.14
 	fmt.Println("pi 1:", pi)
