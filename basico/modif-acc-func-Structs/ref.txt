@@ -1,0 +1,4 @@
+# aplicamos
+go mod init nombre
+
+## crea el archivo go.mod
